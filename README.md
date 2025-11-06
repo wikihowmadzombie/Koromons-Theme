@@ -14,7 +14,7 @@
 
 ###  Step 2: Open the Code
 
-1. Copy the code file you’ll be given (the `.css` or `.js` snippet).
+1. Copy the code file you’ll be given (the `.css` snippet).
 2. Paste it inside the **Stylish editor**.
 3. Look for this comment in the code:
 
