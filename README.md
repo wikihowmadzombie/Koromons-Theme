@@ -1,7 +1,6 @@
 # Koromons-Theme
 
 
-##  How to Use the Stylish Chrome Extension + Add a Custom Base64 Image
 
 ###  Step 1: Install Stylish
 
