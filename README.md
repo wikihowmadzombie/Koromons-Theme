@@ -60,5 +60,13 @@
 2. Refresh the page — your new image or design should now appear!
 3. If not, check you pasted the Base64 correctly (no missing quotes or spaces).
 
+
 ---
+
+###  Preview
+
+Here’s what it should look like once everything’s set up 
+
+![Preview](https://r2.e-z.host/eb8bb5c6-efa5-4764-8438-f6bce0e4292c/niv9qsl2.png)
+
 
